@@ -42,3 +42,5 @@ To run the code in this repository, you need:
 1. Clone this repository to your local machine.
 2. Set the working directory in R to the location of the cloned repository.
 3. Run the R script `Google_Stock_Price_Analysis.R` in your R environment.
+## Histogram 
+![histogram](https://github.com/GDrickti/Google_Stock_Price_Analysis_and_Forecasting/assets/89154452/fcbdfb7a-4c7e-42a4-8df5-0c9927dc3b26)
